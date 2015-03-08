@@ -1,0 +1,19 @@
+{
+  "name": "modal",
+  "version": "0.0.0",
+  "authors": [
+    "Gavin King <plumpnation@gmail.com>"
+  ],
+  "description": "A history loving modal",
+  "keywords": [
+    "modal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
